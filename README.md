@@ -91,3 +91,25 @@ Docker で php を実行できる webサーバー（nginx）を準備
 </table>  
 <br><br><br>
 
+
+
+
+## 参考
+◆Docker ComposeでNginxとphpを連携する
+https://zukucode.com/2019/06/docker-compose-nginx-php.html
+
+◆docker-compose.ymlでDockerfileを指定したい - Qiita
+https://qiita.com/kai_kou/items/eaafa3cb15e1496f50ec
+
+◆Docker + Nginx + PHP-FPM なら40秒くらいで環境を準備できる docker-compose が楽しくなってきました。 - Qiita
+https://qiita.com/mochizukikotaro/items/b398076cb57492980447
+
+◆Docker + Nginx + PHP-FPM なら40秒くらいで環境を準備できる docker-compose が楽しくなってきました。 - Qiita
+https://qiita.com/mochizukikotaro/items/b398076cb57492980447
+
+◆mochizukikotaro/docker-nginx-phpfpm at simple
+https://github.com/mochizukikotaro/docker-nginx-phpfpm/tree/simple
+
+◆初心者｜docker-compose｜PHP+ Nginx + MySQL - Qiita
+https://qiita.com/tomokei5634/items/ff0784e88b026b530e3e
+
