@@ -104,9 +104,6 @@ https://qiita.com/kai_kou/items/eaafa3cb15e1496f50ec
 ◆Docker + Nginx + PHP-FPM なら40秒くらいで環境を準備できる docker-compose が楽しくなってきました。 - Qiita  
 https://qiita.com/mochizukikotaro/items/b398076cb57492980447  
 
-◆Docker + Nginx + PHP-FPM なら40秒くらいで環境を準備できる docker-compose が楽しくなってきました。 - Qiita  
-https://qiita.com/mochizukikotaro/items/b398076cb57492980447  
-
 ◆mochizukikotaro/docker-nginx-phpfpm at simple  
 https://github.com/mochizukikotaro/docker-nginx-phpfpm/tree/simple  
 
